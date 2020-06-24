@@ -1,7 +1,7 @@
 Python/Software Related questions
 
 Question 1. Have You ever worked on any networking related program(whether in python or any other language). Networking means working with TCP/UDP.
-Answer: Yes, I have worked on TCP in python. I have done a small socket project of Resevse Shell using python. I have descent knowledge about networking.
+Answer: Yes, I have worked on TCP in python. I have done a small socket project of Reverse Shell using python. I have descent knowledge about networking.
 
 Question 2. Do you have any knowledge about SIP.
 Answer: I don't have deep knowledge of this subject. But I just know it is used for communication initiation.
