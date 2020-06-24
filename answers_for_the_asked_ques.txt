@@ -1,0 +1,19 @@
+Python/Software Related questions
+
+Question 1. Have You ever worked on any networking related program(whether in python or any other language). Networking means working with TCP/UDP.
+Answer: Yes, I have worked on TCP in python. I have done a small socket project of Resevse Shell using python. I have descent knowledge about networking.
+
+Question 2. Do you have any knowledge about SIP.
+Answer: I don't have deep knowledge of this subject. But I just know it is used for communication initiation.
+
+Question 3. Do you have knowledge of databases (either NoSQL or SQL).Which one ?
+Answer: Yes I know SQL and did some projects of student database management using Python+MySQL. I am at intermediate-advanced level in SQL.
+
+Question 4. Have your worked with an ORM like sqlalchemy/mongoengine in python.
+Answer: Yes I have worked with sqlAlchemy ORM in python.
+
+Question 5. Have you ever worked with any microservices/web based frameworks in python (like Flask/Sanic/Django)
+Answer: Yes I have worked with Flask micro-webframework and currently doing my self-project using Flask. 
+
+Question 6. Have you ever used any concurrency framework like asyncio/gevents/twisted in python? If yes, which one ?
+Answer: No, not yet.
