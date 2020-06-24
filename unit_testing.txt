@@ -1,0 +1,19 @@
+Testing started at 4:36 PM ...
+C:\Users\acer\supporGenie\Scripts\python.exe "C:\Program Files\JetBrains\PyCharm Community Edition 2019.2.3\helpers\pycharm\_jb_unittest_runner.py" --path C:/Users/acer/PycharmProjects/supporGenie/unit_testing.py
+Launching unittests with arguments python -m unittest C:/Users/acer/PycharmProjects/supporGenie/unit_testing.py in C:\Users\acer\PycharmProjects\supporGenie
+
+
+
+Ran 2 tests in 0.009s
+
+OK
+
+We have these agents right now
+[('agent_1', [11, 59, 0], ['Spanish Speaker', 'Support']), ('agent_2', [12, 0, 0], ['Spanish Speaker'])]
+
+We have these agents right now
+[('agent_1', [11, 59, 0], ['Spanish Speaker', 'Support']), ('agent_2', [12, 0, 0], ['Spanish Speaker'])]
+
+Agents available since long ('agent_1', [11, 59, 0], ['Spanish Speaker', 'Support'])
+
+Process finished with exit code 0
